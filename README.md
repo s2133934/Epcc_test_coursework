@@ -1,4 +1,4 @@
-## Epcc_test_coursework
+## Epcc Code testing and profiling coursework
 ### The EPCC template for coursework used here to create my coursework submission
 
 In a nutshell, we were given a program in C, and asked to test and profile the code. I am not familiar with C so this task will prove a challenge! 
